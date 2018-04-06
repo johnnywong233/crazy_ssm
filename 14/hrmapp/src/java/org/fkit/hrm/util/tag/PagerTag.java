@@ -1,4 +1,4 @@
-﻿package org.fkit.hrm.util.tag;
+package org.fkit.hrm.util.tag;
 
 import javax.servlet.jsp.JspException;
 import javax.servlet.jsp.tagext.SimpleTagSupport;
